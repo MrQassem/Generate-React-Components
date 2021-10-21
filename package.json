@@ -1,0 +1,30 @@
+{
+  "name": "@qasem.sami/rgc",
+  "version": "1.0.20",
+  "description": "Generate react components in typescript in a folder that include .tsx, .scss, .css files using a command line ",
+  "main": "index.js",
+  "bin": {
+    "@qasem-sami/rgc": "bin/create-project",
+    "rgc": "bin/rgc"
+  },
+  "scripts": {
+    "runf": "echo run script",
+    "ng": " index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrQassem/Generate-React-Components.git"
+  },
+  "keywords": [
+    "generate",
+    "react",
+    "component"
+  ],
+  "author": "Qasem Albinahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrQassem/Generate-React-Components/issues"
+  },
+  "homepage": "https://github.com/MrQassem/Generate-React-Components#readme",
+  "dependencies": {}
+}
