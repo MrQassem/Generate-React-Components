@@ -26,5 +26,7 @@
     "url": "https://github.com/MrQassem/Generate-React-Components/issues"
   },
   "homepage": "https://github.com/MrQassem/Generate-React-Components#readme",
-  "dependencies": {}
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
 }
