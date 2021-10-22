@@ -1,7 +1,7 @@
 {
   "name": "@qasem.sami/rgc",
-  "version": "1.0.20",
-  "description": "Generate react components in typescript in a folder that include .tsx, .scss, .css files using a command line ",
+  "version": "1.0.22",
+  "description": "Generate react components in typescript or javascript in a folder that include (.tsx or .jsx), (.scss, .css) files using a command line ",
   "main": "index.js",
   "bin": {
     "@qasem-sami/rgc": "bin/create-project",
